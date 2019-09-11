@@ -11,6 +11,8 @@
 	* Ken Lin
 		* Pitt ID: kel117
 		* GitHuber username: kel243
+	
+	...
 * Procedural generation sub-team
 	* Peter O’Hara
 		* Pitt ID: 
@@ -18,6 +20,8 @@
 	* Pedro Pallares
 		* Pitt ID: pep24
 		* GitHuber username: 
+			
+	...
 * AI sub-team
 	* Evan Stephenson
 		* Pitt ID: evs25
@@ -28,19 +32,24 @@
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
-
+	
+	...
 ## Game Description
 
-
+...
 
 ## Specific Milestones
 
+...
 
 ## Advanced topics
 
 * Physics
-	* 
+	* 	
+	...
 * Procedural generation
-	* 
+	* 	
+	...
 * AI
-	* 
+	* 	
+	...
