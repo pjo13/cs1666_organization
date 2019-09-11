@@ -1,4 +1,4 @@
-#CS1666 Management weeks
+# CS1666 Management weeks
 
 Each team should copy and fill out this schedule:
 

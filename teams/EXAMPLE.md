@@ -1,6 +1,6 @@
-#CS1666 Team EXAMPLE
+# CS1666 Team EXAMPLE
 
-##Team Members
+## Team Members
 * Physics sub-team
 	* Nicholas Farnan
 		* Pitt ID: nlf4
@@ -41,7 +41,7 @@
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
 
-##Game Description
+## Game Description
 
 For our project, we will build a clone of NES Hockey. We want players to be able
 to play full games of 5 on 5 hockey with user-set period times. Players should be able
@@ -50,7 +50,7 @@ causing the puck to come loose). Players will either be able to play each other
 using networked multiplayer, or play single-player against an AI-controlled team.
 
 
-##Specific Milestones
+## Specific Milestones
 
 * Playing full 3-period games of hockey with score tracking.
 * Will only implement 2 teams (red and blue)
@@ -59,7 +59,7 @@ using networked multiplayer, or play single-player against an AI-controlled team
 * All characters (except the goalie) will be given free movement around the rink
 * Goalie will be limited to moving directly in front of the net
 
-##Advanced topics
+## Advanced topics
 
 * Physics
 	* Simulated accurate bouncing of the puck off of the boards surrounding the rink

@@ -1,10 +1,10 @@
-#CS1666 Team
+# CS1666 Team
 
 Each team will need to construct a Markdown file to describe their team and the
 goals for their project. An example file based on a game submitted in the Fall
 2018 term is provided.
 
-#Required pieces
+# Required pieces
 * Team membership list
 	* Sorted by advanced topic subteam
 		* Student name
