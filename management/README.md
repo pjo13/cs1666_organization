@@ -3,7 +3,7 @@
 Each team should copy and fill out this schedule:
 
 * 9/11 - 9/18
-	* REQUIRED Name
+	* Milo Davis
 * 9/18 - 9/25
 	* Optional Name
 * 9/25 - 10/2
