@@ -1,4 +1,4 @@
-# CS1666 Team EXAMPLE
+# Team 1 Overview
 
 ## Team Members
 * Physics sub-team
