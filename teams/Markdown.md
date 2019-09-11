@@ -19,7 +19,11 @@
 		* GitHuber username: 
 	* Pedro Pallares
 		* Pitt ID: pep24
-		* GitHuber username: 
+		* GitHuber username:
+	* Keith Stebler
+		* Pitt ID: KCS66
+		* GitHuber username: KCS66
+		
 			
 	...
 * AI sub-team
@@ -32,6 +36,10 @@
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
+	* Michael Spila
+		* Pitt ID: MRS185
+		* GitHuber username: MichaelSpila97
+		
 	
 	...
 ## Game Description
