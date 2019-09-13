@@ -3,21 +3,21 @@
 Each team should copy and fill out this schedule:
 
 * 9/11 - 9/18
-	* REQUIRED Name
+	* Brian Hellested
 * 9/18 - 9/25
-	* Optional Name
+	* Jacob Zonper
 * 9/25 - 10/2
-	* Optional Name
+	* Josh Trant
 * 10/2 - 10/9
-	* Optional Name
+	* Dilan Ozkaynak
 * 10/9 - 10/16
-	* Optional Name
+	* 
 * 10/16 - 10/23
-	* Optional Name
+	* Jeroen Wolfe
 * 10/23 - 10/30
-	* Optional Name
+	* Matt Darden
 * 10/30 - 11/6
-	* Optional Name
+	* Connor Schwartz
 * 11/6 - 11/13
 	* Optional Name
 * 11/13 - 11/20
