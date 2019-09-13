@@ -5,9 +5,9 @@
 	* Jacob Zomper
 		* Pitt ID: jlz43
 		* GitHuber username: jacob-zomper
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Kennet Choo
+		* Pitt ID: kac311
+		* GitHuber username: TerableCoder
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
@@ -18,16 +18,6 @@
 	* Josh Trant
 		* Pitt ID: jtt29
 		* GitHuber username: JTrant
-* Networking sub-team
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
