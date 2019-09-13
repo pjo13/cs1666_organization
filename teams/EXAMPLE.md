@@ -15,9 +15,9 @@
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
 * Random level generation sub-team
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Dilan Ozkaynak
+		* Pitt ID: dio4
+		* GitHuber username: dilan-dio4
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
