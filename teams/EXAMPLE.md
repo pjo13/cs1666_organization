@@ -2,9 +2,9 @@
 
 ## Team Members
 * Physics sub-team
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Jacob Zomper
+		* Pitt ID: jlz43
+		* GitHuber username: jacob-zomper
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
