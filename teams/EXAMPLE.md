@@ -15,9 +15,9 @@
 	* Dilan Ozkaynak
 		* Pitt ID: dio4
 		* GitHuber username: dilan-dio4
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Josh Trant
+		* Pitt ID: jtt29
+		* GitHuber username: JTrant
 * Networking sub-team
 	* Nicholas Farnan
 		* Pitt ID: nlf4
