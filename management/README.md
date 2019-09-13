@@ -11,7 +11,7 @@ Each team should copy and fill out this schedule:
 * 10/2 - 10/9
 	* Dilan Ozkaynak
 * 10/9 - 10/16
-	* 
+	* Empty
 * 10/16 - 10/23
 	* Jeroen Wolfe
 * 10/23 - 10/30
