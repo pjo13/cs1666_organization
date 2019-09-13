@@ -5,22 +5,22 @@ Each team should copy and fill out this schedule:
 * 9/11 - 9/18
 	* Alec Cantor
 * 9/18 - 9/25
-	* Optional Name
+	* Brendan Marani
 * 9/25 - 10/2
-	* Optional Name
+	* Adam Ibrahim
 * 10/2 - 10/9
-	* Optional Name
+	* Alex Clewell
 * 10/9 - 10/16
-	* Optional Name
+	* Nobody
 * 10/16 - 10/23
-	* Optional Name
+	* Danny Phan
 * 10/23 - 10/30
-	* Optional Name
+	* Nate Lyman
 * 10/30 - 11/6
-	* Optional Name
+	* Nobody
 * 11/6 - 11/13
-	* Optional Name
+	* Dylan Miao
 * 11/13 - 11/20
-	* Optional Name
+	* Evan 
 * 11/13 - 12/4
-	* REQUIRED Name	
+	* Jacob Strobl
