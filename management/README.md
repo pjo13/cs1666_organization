@@ -19,7 +19,7 @@ Each team should copy and fill out this schedule:
 * 10/30 - 11/6
 	* Connor Schwartz
 * 11/6 - 11/13
-	* Optional Name
+	* Kenneth Choo
 * 11/13 - 11/20
 	* Optional Name
 * 11/13 - 12/4

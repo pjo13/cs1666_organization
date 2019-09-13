@@ -5,9 +5,6 @@
 	* Jacob Zomper
 		* Pitt ID: jlz43
 		* GitHuber username: jacob-zomper
-	* Connor Schwartz
-		* Pitt ID: ces133
-		* GitHuber username: connorschwartz
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
@@ -21,6 +18,13 @@
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
+* Networking sub-team
+	* Nicholas Farnan
+		* Pitt ID: nlf4
+		* GitHuber username: nfarnan
+	* Nicholas Farnan
+		* Pitt ID: nlf4
+		* GitHuber username: nfarnan
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
@@ -28,9 +32,9 @@
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
 * AI sub-team
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Matt Darden
+		* Pitt ID: mtd38
+		* GitHuber username: mattdarden
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
