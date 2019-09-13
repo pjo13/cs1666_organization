@@ -14,11 +14,7 @@
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
-<<<<<<< HEAD
 * Random level generation sub-team
-=======
-* Random Level Generation sub-team
->>>>>>> 926f6fdc045aaa0959802d93ba284f3cd1f7c064
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
