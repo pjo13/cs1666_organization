@@ -59,7 +59,7 @@ using networked multiplayer, or play single-player against an AI-controlled team
 	* Simulated accurate bouncing of the puck off of the boards surrounding the rink
 	* Accurately simulate the slowing down of the puck as it glides accross the ice on a pass or shot
 	* Simulate players bouncing off of one another on collision (checks)
-* Networking
+* Random level generation
 	* Allow 2 players to connect to a single game instance and play the game as a lag-free experience
 * AI
 	* Computer-controlled characters should actively track towards the puck when it is loose
