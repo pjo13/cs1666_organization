@@ -5,9 +5,9 @@
 	* Jacob Zomper
 		* Pitt ID: jlz43
 		* GitHuber username: jacob-zomper
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Connor Schwartz
+		* Pitt ID: ces133
+		* GitHuber username: connorschwartz
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
