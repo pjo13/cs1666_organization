@@ -21,6 +21,6 @@ Each team should copy and fill out this schedule:
 * 11/6 - 11/13
 	* Dylan Miao
 * 11/13 - 11/20
-	* Evan 
+	* Evan McEllhenney
 * 11/13 - 12/4
-	* Jacob Strobl
+	* Jakob Strobl

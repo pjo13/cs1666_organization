@@ -8,11 +8,11 @@
 	* Brendan Marani
 		* Pitt ID: bdm58
 		* GitHuber username: BrendanMarani
-	* Evan 
-		* Pitt ID: 
-		* GitHuber username: 
+	* Evan McEllhenney
+		* Pitt ID: ecm53
+		* GitHuber username: evanmce
 * Networking sub-team
-	* Jacob Strobl
+	* Jakob Strobl
 		* Pitt ID: jps132
 		* GitHuber username: Jakob-Strobl
 	* Adam Ibrahim
