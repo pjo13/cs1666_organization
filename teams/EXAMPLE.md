@@ -18,9 +18,9 @@
 	* Josh Trant
 		* Pitt ID: jtt29
 		* GitHuber username: JTrant
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Brian Hellested
+		* Pitt ID: bch42
+		* GitHuber username: bhellested
 * AI sub-team
 	* Matt Darden
 		* Pitt ID: mtd38
