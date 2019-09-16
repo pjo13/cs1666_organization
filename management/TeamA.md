@@ -21,6 +21,6 @@ Each team should copy and fill out this schedule:
 * 11/6 - 11/13
 	* Kenneth Choo
 * 11/13 - 11/20
-	* Optional Name
+	* Faruk Yucel
 * 11/13 - 12/4
 	* REQUIRED Name	
