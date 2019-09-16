@@ -31,6 +31,9 @@
 	* Nate Lyman
 		* Pitt ID: njl26
 		* GitHuber username: nlyman9
+	* Ben Kurzyna
+		* Pitt ID: bjk71
+		* GitHuber username: bjk71
 
 ## Game Description
 

@@ -17,7 +17,7 @@ Each team should copy and fill out this schedule:
 * 10/23 - 10/30
 	* Nate Lyman
 * 10/30 - 11/6
-	* Nobody
+	* Ben Kurzyna
 * 11/6 - 11/13
 	* Dylan Miao
 * 11/13 - 11/20
