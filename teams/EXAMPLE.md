@@ -37,12 +37,17 @@
 
 ## Game Description
 
-For our project, we are building a 2D flight game where the goal is to safely fly through enemy territory and reach your safe base. The player will be challenged by caves with obstacles, bullets and missiles flying towards them, and AI controlled enemy planes. The games should be completed in around 3 minutes reasonably.
+For our project, we are building a 2D flight game where the goal is
+ to safely fly through enemy territory and reach your safe base. 
+ The player will be challenged by caves with obstacles, bullets 
+ and missiles flying towards them, and AI controlled enemy planes.
+ The games should be completed in around 3 minutes reasonably.
 
 
 ## Specific Milestones
 
-* Creating a randomly generated map that cycles between a cave like obstacle based challenge, and an open-air dog fighting challenge.
+* Creating a randomly generated map that cycles between a cave 
+	like obstacle based challenge, and an open-air dog fighting challenge.
 * Will have different types of rockets that each chase the plane with varying speeds and nimbleness. 
 * The open air will have a cieling with a stall-out effect to add an upper border to the world.
 * Missiles can be dodged and collide with each other to stay safe.
@@ -63,4 +68,5 @@ For our project, we are building a 2D flight game where the goal is to safely fl
 
 * AI
 	* Create adaptive rockets that can chase the player
-	* Planes may either have the goal of shooting the player down from behind or colliding with them midair.
+	* Planes may either have the goal of shooting the player down
+		from behind or colliding with them midair.
