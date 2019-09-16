@@ -15,15 +15,15 @@
 		* Pitt ID: liw82
 		* GitHuber username: nxdens
 * Procedural generation sub-team
-	* Peter O’Hara
-		* Pitt ID: 
-		* GitHuber username: 
 	* Pedro Pallares
 		* Pitt ID: pep24
 		* GitHuber username: ppallares
 	* Keith Stebler
 		* Pitt ID: KCS66
 		* GitHuber username: KCS66
+	* Michael Spila
+		* Pitt ID: MRS185
+		* GitHuber username: MichaelSpila97
 * AI sub-team
 	* Evan Stephenson
 		* Pitt ID: evs25
@@ -34,9 +34,6 @@
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
-	* Michael Spila
-		* Pitt ID: MRS185
-		* GitHuber username: MichaelSpila97
 ## Game Description
 
 ...
