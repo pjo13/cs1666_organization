@@ -28,9 +28,9 @@
 	* Connor Schwartz
 		* Pitt ID: ces133
 		* GitHuber username: connorschwartz
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Brandon Bisceglia
+		* Pitt ID: brb162
+		* GitHuber username: BetterBrandon
 	* Nicholas Farnan
 		* Pitt ID: nlf4
 		* GitHuber username: nfarnan
