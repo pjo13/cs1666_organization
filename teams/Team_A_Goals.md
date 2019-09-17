@@ -8,9 +8,9 @@
 	* Kennet Choo
 		* Pitt ID: kac311
 		* GitHuber username: TerableCoder
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Faruk Yucel
+		* Pitt ID: fby1
+		* GitHuber username: fby1
 * Random level generation sub-team
 	* Dilan Ozkaynak
 		* Pitt ID: dio4
