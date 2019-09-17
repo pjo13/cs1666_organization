@@ -19,11 +19,11 @@
 		* Pitt ID: pep24
 		* GitHuber username: ppallares
 	* Keith Stebler
-		* Pitt ID: KCS66
+		* Pitt ID: kcs66
 		* GitHuber username: KCS66
 	* Michael Spila
-		* Pitt ID: MRS185
-		* GitHuber username: MichaelSpila97
+		* Pitt ID: pjo13
+		* GitHuber username: pjo13
 * AI sub-team
 	* Evan Stephenson
 		* Pitt ID: evs25
@@ -34,22 +34,30 @@
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
+	* Michael Spila
+		* Pitt ID: mrs185
+		* GitHuber username: MichaelSpila97
 ## Game Description
 
-...
+Our game will be a top-down shooter with strategy elements. With space as the setting, the player will spawn in 1 of the 7 procedually generated hexagonal zones that comprise the game map. As a spaceship that can be controlled with the keyboard, the player will be tasked with shooting AI enemies to clear them out of and therefore gain control of each zone. The more zones controlled by the player, the more AI allies the player can recruit.
+
 
 ## Specific Milestones
 
-...
+* Objects all exist on same plane and can collide with each other
+* Free roam throughout the map's 7 zones
+* Credits increment at regular intervals with the amount depending on controlled zones and the objects in said zone
+* UI for trading credits for ally units or repairs for player's ship
+* Lose when player's ship is destroyed, win when every zone is controlled
 
 ## Advanced topics
 
 * Physics
-	* 	
-	...
+	* Gravity accurately simulated for all objects	
+	* Newton's laws of motion apply such that objects
 * Procedural generation
-	* 	
-	...
+	* Each zone dynamically generated at game start as a solar system with varying objects and conditions
 * AI
-	* 	
-	...
+	* Allies and enemies avoid collisions and friendly fire
+	* Allies passively follow player and can be given basic orders (go to point, attack target)
+	* Enemies build ships and attack player zones that are adjacent to theirs
