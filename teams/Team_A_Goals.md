@@ -31,9 +31,9 @@
 	* Brandon Bisceglia
 		* Pitt ID: brb162
 		* GitHuber username: BetterBrandon
-	* Nicholas Farnan
-		* Pitt ID: nlf4
-		* GitHuber username: nfarnan
+	* Jeroen Wolfe
+		* Pitt ID: jew134
+		* GitHuber username: jerrybear16
 
 ## Game Description
 
