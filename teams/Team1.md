@@ -21,7 +21,7 @@
 	* Keith Stebler
 		* Pitt ID: kcs66
 		* GitHuber username: KCS66
-	* Michael Spila
+	* Peter O'Hara
 		* Pitt ID: pjo13
 		* GitHuber username: pjo13
 * AI sub-team
@@ -56,7 +56,7 @@ Our game will be a top-down shooter with strategy elements. With space as the se
 	* Gravity accurately simulated for all objects	
 	* Newton's laws of motion apply such that objects
 * Procedural generation
-	* Each zone dynamically generated at game start as a solar system with varying objects and conditions
+	* Each zone dynamically generated as a solar system with varying objects and conditions
 * AI
 	* Allies and enemies avoid collisions and friendly fire
 	* Allies passively follow player and can be given basic orders (go to point, attack target)
