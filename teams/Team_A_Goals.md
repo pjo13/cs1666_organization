@@ -58,14 +58,17 @@ For our project, we are building a 2D flight game where the goal is
 
 * Physics
 	* Simulated accurate ricochet of bullets in the cave.
+	* adding destuctable environment such as stalagmites 
 	* Accurately create a 2d flight simulation for the player.
-	* (maybe) include effects that incoming rockets, bullets, and planes will have on the player.
+	* Include effects that incoming rockets, bullets, and planes will have on the player.
 	
 * Random level generation
 	* Create a mapping system that allows for switching between cave and open air
+	* Cave system will be randomly generated with obstacles (stalagmites/stalactites).
 	* Randomness of AA guns on the ground and rockets/planes that are shot at the player
 
 * AI
 	* Create adaptive rockets that can chase the player
 	* Planes may either have the goal of shooting the player down
 		from behind or colliding with them midair.
+	* Add AI ability to dodge incoming bullet fire from player.
