@@ -44,6 +44,8 @@ Our game will be a top-down shooter with strategy elements. With space as the se
 
 ## Specific Milestones
 
+* World Objects (large to small): Stars, black holes, planets, asteroids, meteoroids 
+* Unit Objects (small to large): Fighter class ship, hero class ship, cruiser class ship, captial class ship
 * Objects all exist on same plane and can collide with each other
 * Free roam throughout the map's 7 zones
 * Credits increment at regular intervals with the amount depending on controlled zones and the objects in said zone
@@ -57,6 +59,7 @@ Our game will be a top-down shooter with strategy elements. With space as the se
 	* Newton's laws of motion apply such that objects
 * Procedural generation
 	* Each zone dynamically generated as a solar system with varying objects and conditions
+	* Unique hyperspace maze for the player to traverse generated when the moving between zone
 * AI
 	* Allies and enemies avoid collisions and friendly fire
 	* Allies passively follow player and can be given basic orders (go to point, attack target)
