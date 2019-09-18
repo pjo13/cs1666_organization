@@ -79,6 +79,7 @@ will continue until, in due course, one NPC chooses to murder another.
 		* Side note: we'll have to have discussions as to how to achieve the "however they want"
 * Network 
 	* Create a web server capable of receiving and sending information packets
+	* Allow connections across separate networks
 	* Create server-side user profiles
 	* Add a friend system for the profiles 
 	* Add a chat system between profiles 
