@@ -60,7 +60,6 @@ For our project, we are building a 2D flight game where the goal is
 	* Simulated accurate ricochet of bullets in the cave.
 	* Accurately create a 2d flight simulation for the player.
 	* (maybe) include effects that incoming rockets, bullets, and planes will have on the player.
-	* Simulate a gravity effect on all flight objects.
 	
 * Random level generation
 	* Create a mapping system that allows for switching between cave and open air
