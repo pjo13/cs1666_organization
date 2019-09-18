@@ -55,7 +55,7 @@ Our game will be a top-down shooter with strategy elements. With space as the se
 ## Advanced topics
 
 * Physics
-	* Gravity accurately simulated for all objects	
+	* Gravity accurately simulated (but with exaggerated scale) for all objects	
 	* Newton's laws of motion apply such that objects
 * Procedural generation
 	* Each zone dynamically generated as a solar system with varying objects and conditions
