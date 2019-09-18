@@ -13,7 +13,7 @@ Each team should copy and fill out this schedule:
 * 10/9 - 10/16
 	* Linghai Wang
 * 10/16 - 10/23
-        * Andrew Welby
+	* Andrew Welby
 * 10/23 - 10/30
 	* Evan Stephenson
 * 10/30 - 11/6
